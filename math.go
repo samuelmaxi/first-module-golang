@@ -5,6 +5,7 @@ func Sum(x int, y int) int {
 }
 func Div(x int, y int) int {
 	return x / y
+
 }
 func Mul(x int, y int) int {
 	return x * y
